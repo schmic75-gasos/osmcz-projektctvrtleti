@@ -14,7 +14,7 @@ Tento projekt je licencován pod licencí GPL. Více informací naleznete v soub
 ## Užitečné odkazy
 [Hlavní web Projektu čtvrtletí - hostovaný Michalem Schneiderem](https://osmcz.michalschneider.site/) <br>
 [Web ČESKÉ KOMUNITY OPENSTREETMAP](https://openstreetmap.cz/) <br>
-[Projekt čtvrtletí na OSM Wiki](https://wiki.openstreetmap.org/wiki/CS:Projekt_m%C4%9Bs%C3%ADce)
+[Projekt čtvrtletí na OSM Wiki](https://wiki.openstreetmap.org/wiki/Cs:Projekt_m%C4%9Bs%C3%ADce)
 ## Poděkování
 - Ondřej Lopatka za napsání článku na OSM Wiki a propragaci v talk-cz komunikaci
 - Celá česká OSM komunita za podporu, mapování a nápady
